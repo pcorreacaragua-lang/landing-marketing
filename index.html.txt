@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Guia de Marketing Digital</title>
+    <style>
+        body { margin: 0; font-family: "Poppins", sans-serif; background: #f5f7fa; color: #333; }
+        .hero { text-align: center; padding: 60px 20px; background: linear-gradient(135deg, #4b79ff, #6d36ff); color: white; }
+        .hero h1 { font-size: 2.8rem; font-weight: 700; margin-top: 20px; }
+        .hero p { font-size: 1.2rem; max-width: 700px; margin: 10px auto; }
+        .banner { width: 230px; border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.3); }
+        .section { padding: 50px 20px; max-width: 900px; margin: auto; }
+        .section h2 { text-align: center; font-size: 2rem; margin-bottom: 30px; color: #4b57ff; }
+        .benefits { display: grid; gap: 15px; padding: 0 10px; }
+        .benefits div { background: white; border-radius: 12px; padding: 18px; font-size: 1.1rem; font-weight: 500;
+            display: flex; align-items: center; gap: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); transition: 0.2s ease; }
+        .benefits div:hover { transform: translateY(-4px); box-shadow: 0 8px 18px rgba(0,0,0,0.12); }
+        .cta-container { text-align: center; margin: 50px 0; }
+        .cta-btn { background: linear-gradient(135deg, #ff7a00, #ffbb00); padding: 18px 35px; border-radius: 50px;
+            color: #fff; font-size: 1.3rem; text-decoration: none; font-weight: 700; box-shadow: 0 8px 20px rgba(255, 153, 0, 0.4); transition: 0.3s; }
+        .cta-btn:hover { transform: scale(1.05); box-shadow: 0 10px 25px rgba(255, 153, 0, 0.55); }
+        footer { text-align: center; padding: 20px; background: #111; color: #bbb; font-size: 0.9rem; }
+    </style>
+</head>
+
+<body>
+
+    <header class="hero">
+        <img src="assets/banner.jpg" alt="Banner" class="banner" />
+        <h1>Guia Completo de Marketing Digital</h1>
+        <p>Aprenda estratégias sólidas para construir autoridade e gerar vendas — mesmo começando do zero.</p>
+    </header>
+
+    <section class="section">
+        <h2>O que você vai aprender 📘</h2>
+
+        <div class="benefits">
+            <div>✔️ Criar presença digital do zero</div>
+            <div>✔️ Transformar seguidores em clientes</div>
+            <div>✔️ Estratégias para vender todos os dias</div>
+            <div>✔️ Como gerar autoridade rapidamente</div>
+            <div>✔️ Evitar erros que travam iniciantes</div>
+            <div>✔️ Criar conteúdos que engajam e convertem</div>
+        </div>
+    </section>
+
+    <section class="section">
+        <h2>Para quem é este guia 🚀</h2>
+
+        <div class="benefits">
+            <div>✔️ Iniciantes no Marketing Digital</div>
+            <div>✔️ Quem quer ganhar dinheiro online</div>
+            <div>✔️ Criadores de conteúdo e freelancers</div>
+            <div>✔️ Pequenos negócios que querem vender mais</div>
+        </div>
+    </section>
+
+    <div class="cta-container">
+        <a class="cta-btn" href="https://pay.kirvano.com/f599654f-3b29-435e-a1b0-7d8c5ebf4488">
+            QUERO GARANTIR MINHA CÓPIA 📘🔥
+        </a>
+    </div>
+
+    <footer>
+        © 2025 - Todos os direitos reservados.
+    </footer>
+
+</body>
+</html>

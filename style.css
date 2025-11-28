@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0b0b0b;
+    color: white;
+}
+
+.hero {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.banner {
+    width: 100%;
+    max-width: 900px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.hero p {
+    font-size: 18px;
+    opacity: 0.8;
+    max-width: 600px;
+    margin: auto;
+}
+
+.section {
+    padding: 40px 20px;
+    max-width: 900px;
+    margin: auto;
+}
+
+.section h2 {
+    font-size: 26px;
+    margin-bottom: 20px;
+}
+
+.benefits {
+    display: grid;
+    gap: 25px;
+}
+
+.benefits div {
+    background: #131313;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #222;
+}
+
+.cta-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.cta-btn {
+    display: inline-block;
+    background-color: #00c86f;
+    color: white;
+    padding: 18px 28px;
+    font-size: 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.cta-btn:hover {
+    opacity: 0.9;
+}
+
+footer {
+    text-align: center;
+    padding: 30px;
+    opacity: 0.6;
+    font-size: 14px;
+}
